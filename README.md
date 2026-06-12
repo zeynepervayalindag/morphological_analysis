@@ -10,7 +10,6 @@ Bu proje, Türkçe metinler üzerinde **Koşullu Rastgele Alanlar (Conditional R
 - `dataset.conll`: Etiket standardizasyonu yapılmış eğitim ve test verisi.
 - `requirements.txt`: Projenin çalışması için gerekli kütüphanelerin listesi.
 - `confusion_matrix.png`: Modelin hata analizi için üretilen karışıklık matrisi görseli.
-- `performance_metrics.png`: Sınıf bazlı başarı oranlarını gösteren performans grafiği.
 
 ## Kurulum ve Çalıştırma
 
