@@ -1,0 +1,5 @@
+scikit-learn
+sklearn-crfsuite
+pandas
+seaborn
+matplotlib
